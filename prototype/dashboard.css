@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+.section h2 {
+    color: #2c3e50;
+    border-bottom: 2px solid #e0e0e0;
+    padding-bottom: 5px;
+}
+
+.section p {
+    font-size: 16px;
+    color: #555;
+}
+
+canvas {
+    max-width: 200px; /* Adjust the width of the canvas for the pie charts */
+    max-height: 200px; /* Adjust the height of the canvas for the pie charts */
+    margin: 0 auto; /* Center the pie charts */
+    display: block;
+}
