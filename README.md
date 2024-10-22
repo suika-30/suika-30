@@ -1,8 +1,7 @@
-- ✨ hi, I’m @tima
-- 👀 interested in game development
-- 🌱 currently learning front-end and godot
-- 🎮 i play genshin
-- ⚡ masterball = guaranteed success
+- ✨ @tima
+- 👀 game development
+- 🌱 front-end and godot
+- 🎮 genshin
 
 <!---
 suika-30/suika-30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
