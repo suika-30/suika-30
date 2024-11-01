@@ -1,6 +1,4 @@
 - ✨ @tima
-- 👀 game development
-- 🌱 front-end and godot
 - 🎮 genshin
 
 <!---
